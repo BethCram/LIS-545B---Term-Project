@@ -1,6 +1,9 @@
 # LIS-545B---Term-Project
 Term Project Final Project
 
+Bubbles - Bethany Cram Term Project
+Final Report
+
 Bethany Cram Term Project – First Draft .docx
 
 This report contains a profile of data, metadata, and a repository profile about the datasets examined during this course of this project.
